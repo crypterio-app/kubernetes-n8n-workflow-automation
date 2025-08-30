@@ -5,16 +5,15 @@ N8N is a workflow automation platform that gives technical teams the flexibility
 
 #### 🎯 Key Features:
 
-🔑 Core Features
-
-Low-code / no-code automation – Build workflows visually with drag-and-drop nodes.
-Over 400+ integrations – Pre-built nodes for SaaS tools (Slack, Google, GitHub, AWS, OpenAI, etc.).
-Custom API calls – HTTP Request node lets you connect to any REST or GraphQL API.
-Code nodes – Write custom logic with JavaScript or Python inside workflows.
-Conditional logic & branching – If/else, switch, merge, and split workflows based on data.
-Scheduled & event-based triggers – Start workflows via cron jobs, webhooks, or app events.
-Parallel execution – Run multiple workflow branches at the same time.
-
+```
+✅ Low-code / no-code automation – Build workflows visually with drag-and-drop nodes.
+✅ Over 400+ integrations – Pre-built nodes for SaaS tools (Slack, Google, GitHub, AWS, OpenAI, etc.).
+✅Custom API calls – HTTP Request node lets you connect to any REST or GraphQL API.
+✅Code nodes – Write custom logic with JavaScript or Python inside workflows.
+✅Conditional logic & branching – If/else, switch, merge, and split workflows based on data.
+✅Scheduled & event-based triggers – Start workflows via cron jobs, webhooks, or app events.
+✅Parallel execution – Run multiple workflow branches at the same time.
+```
 
 🚀 
 ```
