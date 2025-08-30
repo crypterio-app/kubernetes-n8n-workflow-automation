@@ -1,0 +1,1 @@
+# kubernetes-n8n-foundation-model
