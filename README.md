@@ -5,16 +5,15 @@ N8N is a workflow automation platform that gives technical teams the flexibility
 
 #### 🎯 Key Features:
 
-- **✅ Git-like Version Control for Data**: Create repositories for datasets.
-- **✅ Branching & Isolated Environments**: Create branches to test new ETL/ML pipelines or transformations safely.
-- **✅ Atomic Commitsh**: Commit multiple data changes as a single atomic operation.
-- **✅ Data Lineage & Reproducibility**: Every commit is a snapshot of your data.
-- **✅ Zero-Copy Branching & Metadata Management**: Branches and commits are lightweight (metadata-only).
-- **✅ Safe Merges & Rollbacks**: Merge tested changes from dev → staging → prod.
-- **✅ Integrations with Data & ML Ecosystem**:
-- **✅ Access Control & Governance**: Supports branch-level policies with [Open Policy Agent (OPA)]
-- **✅ Data CI/CD**: Automate testing and validation of data pipelines:
-- **✅ Web UI & CLI**: User-friendly UI to browse repositories, branches, commits, diffs.
+🔑 Core Features
+
+Low-code / no-code automation – Build workflows visually with drag-and-drop nodes.
+Over 400+ integrations – Pre-built nodes for SaaS tools (Slack, Google, GitHub, AWS, OpenAI, etc.).
+Custom API calls – HTTP Request node lets you connect to any REST or GraphQL API.
+Code nodes – Write custom logic with JavaScript or Python inside workflows.
+Conditional logic & branching – If/else, switch, merge, and split workflows based on data.
+Scheduled & event-based triggers – Start workflows via cron jobs, webhooks, or app events.
+Parallel execution – Run multiple workflow branches at the same time.
 
 
 🚀 
