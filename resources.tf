@@ -37,7 +37,7 @@ resource "helm_release" "n8n" {
   namespace  = "n8n"
   create_namespace = true
   depends_on = [null_resource.helm_dependency_update]
-  name       = "llmaz"
+  name       = "n8n"
   chart = "${var.charts_path}/n8n/"
 }
 
