@@ -16,18 +16,27 @@ N8N is a workflow automation platform that gives technical teams the flexibility
 
 #### 📊 Data & Processing
 ```
-✅ Data transformations – Map, filter, and transform JSON or structured data.
-✅ Built-in functions – String manipulation, math operations, date/time utilities.
-✅ Database connectors – Native support for Postgres, MySQL, MongoDB, SQLite, and more.
-✅ Binary data support – Handle files (e.g., PDFs, images, CSVs).
+✅ Data transformations – Map, filter, and transform JSON or structured data
+✅ Built-in functions – String manipulation, math operations, date/time utilities
+✅ Database connectors – Native support for Postgres, MySQL, MongoDB, SQLite, and more
+✅ Binary data support – Handle files (e.g., PDFs, images, CSVs)
 ```
 
 #### ⚡ Workflow Management
 ```
-✅ Reusable workflows – Sub-workflows (like functions) to reduce repetition.
-✅ Version control – Workflow history and rollback.
-✅ Error handling – Retry, catch errors, and custom failover paths.
-✅ Execution modes – Run once, keep active, or test step-by-step.
+✅ Reusable workflows – Sub-workflows (like functions) to reduce repetition
+✅ Version control – Workflow history and rollback
+✅ Error handling – Retry, catch errors, and custom failover paths
+✅ Execution modes – Run once, keep active, or test step-by-step
+```
+
+#### 🛡️ Deployment & Scaling
+```
+✅ Self-hosted – Run anywhere (Docker, Kubernetes, bare metal, cloud)
+✅ Cloud option – Hosted SaaS by n8n team
+✅ Horizontal scaling – Queue mode with workers for large workloads
+✅ Secure credentials store – Encrypted secrets for API keys & passwords
+✅ Multi-user support – Role-based access (in Enterprise edition)
 ```
 
 🚀 
